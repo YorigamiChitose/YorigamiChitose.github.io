@@ -1,0 +1,15 @@
+/*
+/*/
+
+!hugo.yaml
+!Makefile
+!.gitignore
+!/themes/
+!/static/
+!/layouts/
+!/i18n/
+!/data/
+!/content/
+!/assets/
+!/archetypes/
+!/.github/
