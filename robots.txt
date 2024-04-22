@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://YorigamiChitose.github.io/sitemap.xml
