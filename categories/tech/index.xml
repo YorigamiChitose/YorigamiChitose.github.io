@@ -1,27 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>YorigamiChitose</title>
-    <link>https://YorigamiChitose.github.io/</link>
-    <description>Recent content on YorigamiChitose</description>
+    <title>Tech on YorigamiChitose</title>
+    <link>https://YorigamiChitose.github.io/categories/tech/</link>
+    <description>Recent content in Tech on YorigamiChitose</description>
     <generator>Hugo -- 0.125.4</generator>
     <language>zh</language>
     <copyright>2021-2024 YorigamiChitose</copyright>
     <lastBuildDate>Fri, 01 Apr 2022 23:36:49 +0800</lastBuildDate>
-    <atom:link href="https://YorigamiChitose.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://YorigamiChitose.github.io/categories/tech/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>WSL安装与使用</title>
       <link>https://YorigamiChitose.github.io/posts/22-04-01-wsl/</link>
       <pubDate>Fri, 01 Apr 2022 23:36:49 +0800</pubDate>
       <guid>https://YorigamiChitose.github.io/posts/22-04-01-wsl/</guid>
       <description>前言 来自2024年的提示：如果条件允许，有多余的设备，实机安装反而是最省事的选择。WSL在部分情况下还是要折腾一下。但是确实算是个不错的选择 我为什么选择WSL 由于我的部分开发环境必须使用linux环境, 我必须在实际安装/虚拟机/WSL之中选择一个, 最后我选择了WSL. 主要原因如下</description>
-    </item>
-    <item>
-      <title>你好</title>
-      <link>https://YorigamiChitose.github.io/posts/21-12-21-hello/</link>
-      <pubDate>Tue, 21 Dec 2021 20:14:22 +0800</pubDate>
-      <guid>https://YorigamiChitose.github.io/posts/21-12-21-hello/</guid>
-      <description>Hello A page for test #include &amp;lt;stdio.h&amp;gt; int main(void) { printf(&amp;#34;Hello, world!\n&amp;#34;); return 0; }</description>
     </item>
   </channel>
 </rss>
