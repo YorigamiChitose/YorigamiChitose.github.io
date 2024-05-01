@@ -1,7 +1,7 @@
 baseURL: "https://YorigamiChitose.github.io/" 
 languageCode: zh 
 title: YorigamiChitose 
-theme: ["PaperMod"] 
+theme: ["PaperMod", "hugo-notice"] 
 copyright: "© 2021-2024 [YorigamiChitose](https://YorigamiChitose.github.io/)" 
 enableEmoji: true 
 enableRobotsTXT: true 
