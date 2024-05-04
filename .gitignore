@@ -1,9 +1,9 @@
 /*
 /*/
 
-!hugo.yaml
-!Makefile
-!.gitignore
+!/hugo.yaml
+!/Makefile
+!/.gitignore
 !/themes/
 !/static/
 !/layouts/
