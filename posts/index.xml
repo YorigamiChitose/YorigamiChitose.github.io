@@ -4,11 +4,18 @@
     <title>Posts on YorigamiChitose</title>
     <link>https://YorigamiChitose.github.io/posts/</link>
     <description>Recent content in Posts on YorigamiChitose</description>
-    <generator>Hugo -- 0.125.5</generator>
+    <generator>Hugo -- 0.125.7</generator>
     <language>zh</language>
     <copyright>2021-2024 YorigamiChitose</copyright>
-    <lastBuildDate>Fri, 01 Apr 2022 23:36:49 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 04 May 2024 22:02:02 +0800</lastBuildDate>
     <atom:link href="https://YorigamiChitose.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>手写RISCV操作系统笔记-01-环境搭建</title>
+      <link>https://YorigamiChitose.github.io/posts/24-05-04-system-01/</link>
+      <pubDate>Sat, 04 May 2024 22:02:02 +0800</pubDate>
+      <guid>https://YorigamiChitose.github.io/posts/24-05-04-system-01/</guid>
+      <description>前言 最近对操作系统比较感兴趣，所以打算自己动手尝试一下，边学边写一个玩具操作系统。 参考资料 书籍 RISC-V开放架构设计之道 计算机组成与设计硬件软件接口 RISC-V 项目 rCore 基本目标 使用C语言实现一个能在qemu上运行的riscv64的操作系统，通过opensbi引导系统启动。 环境搭建 安装 &amp;amp; 配置</description>
+    </item>
     <item>
       <title>WSL安装与使用</title>
       <link>https://YorigamiChitose.github.io/posts/22-04-01-wsl/</link>
