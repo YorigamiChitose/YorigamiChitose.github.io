@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>测试 on YorigamiChitose</title>
+    <link>https://YorigamiChitose.github.io/tags/%E6%B5%8B%E8%AF%95/</link>
+    <description>Recent content in 测试 on YorigamiChitose</description>
+    <generator>Hugo</generator>
+    <language>zh</language>
+    <copyright>2021-2026 YorigamiChitose</copyright>
+    <lastBuildDate>Tue, 21 Dec 2021 20:14:22 +0800</lastBuildDate>
+    <atom:link href="https://YorigamiChitose.github.io/tags/%E6%B5%8B%E8%AF%95/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>测试</title>
+      <link>https://YorigamiChitose.github.io/posts/daily/21-12-21-hello/</link>
+      <pubDate>Tue, 21 Dec 2021 20:14:22 +0800</pubDate>
+      <guid>https://YorigamiChitose.github.io/posts/daily/21-12-21-hello/</guid>
+      <description>测试用文章</description>
+    </item>
+  </channel>
+</rss>

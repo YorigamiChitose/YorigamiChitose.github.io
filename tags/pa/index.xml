@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>PA on YorigamiChitose</title>
+    <link>https://YorigamiChitose.github.io/tags/pa/</link>
+    <description>Recent content in PA on YorigamiChitose</description>
+    <generator>Hugo</generator>
+    <language>zh</language>
+    <copyright>2021-2026 YorigamiChitose</copyright>
+    <lastBuildDate>Tue, 24 Sep 2024 23:36:49 +0800</lastBuildDate>
+    <atom:link href="https://YorigamiChitose.github.io/tags/pa/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ICS-PA学习记录: PA3 - 下</title>
+      <link>https://YorigamiChitose.github.io/posts/tech/23-02-05-pa3-2/</link>
+      <pubDate>Sun, 05 Feb 2023 12:20:55 +0800</pubDate>
+      <guid>https://YorigamiChitose.github.io/posts/tech/23-02-05-pa3-2/</guid>
+      <description>一生一芯项目PA3部分-下</description>
+    </item>
+    <item>
+      <title>ICS-PA学习记录: PA3 - 上</title>
+      <link>https://YorigamiChitose.github.io/posts/tech/23-01-23-pa3-1/</link>
+      <pubDate>Mon, 23 Jan 2023 16:29:37 +0800</pubDate>
+      <guid>https://YorigamiChitose.github.io/posts/tech/23-01-23-pa3-1/</guid>
+      <description>一生一芯项目PA3部分-上</description>
+    </item>
+    <item>
+      <title>ICS-PA学习记录: PA2 - 下</title>
+      <link>https://YorigamiChitose.github.io/posts/tech/23-01-19-pa2-3/</link>
+      <pubDate>Thu, 19 Jan 2023 16:29:37 +0800</pubDate>
+      <guid>https://YorigamiChitose.github.io/posts/tech/23-01-19-pa2-3/</guid>
+      <description>一生一芯项目PA2部分-下</description>
+    </item>
+    <item>
+      <title>ICS-PA学习记录: PA2 - 中</title>
+      <link>https://YorigamiChitose.github.io/posts/tech/23-01-15-pa2-2/</link>
+      <pubDate>Sun, 15 Jan 2023 16:29:37 +0800</pubDate>
+      <guid>https://YorigamiChitose.github.io/posts/tech/23-01-15-pa2-2/</guid>
+      <description>一生一芯项目PA2部分-中</description>
+    </item>
+    <item>
+      <title>ICS-PA学习记录: PA2 - 上</title>
+      <link>https://YorigamiChitose.github.io/posts/tech/23-01-10-pa2-1/</link>
+      <pubDate>Tue, 10 Jan 2023 16:29:37 +0800</pubDate>
+      <guid>https://YorigamiChitose.github.io/posts/tech/23-01-10-pa2-1/</guid>
+      <description>一生一芯项目PA2部分-上</description>
+    </item>
+    <item>
+      <title>ICS-PA学习记录: PA1</title>
+      <link>https://YorigamiChitose.github.io/posts/tech/22-12-23-pa1/</link>
+      <pubDate>Fri, 23 Dec 2022 23:36:49 +0800</pubDate>
+      <guid>https://YorigamiChitose.github.io/posts/tech/22-12-23-pa1/</guid>
+      <description>一生一芯项目PA1部分</description>
+    </item>
+  </channel>
+</rss>
