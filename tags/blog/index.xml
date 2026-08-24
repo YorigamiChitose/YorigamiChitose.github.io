@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>日常 on YorigamiChitose</title>
-    <link>https://YorigamiChitose.github.io/categories/%E6%97%A5%E5%B8%B8/</link>
-    <description>Recent content in 日常 on YorigamiChitose</description>
+    <title>Blog on YorigamiChitose</title>
+    <link>https://YorigamiChitose.github.io/tags/blog/</link>
+    <description>Recent content in Blog on YorigamiChitose</description>
     <generator>Hugo</generator>
     <language>zh</language>
     <copyright>2021-2026 YorigamiChitose</copyright>
     <lastBuildDate>Mon, 24 Aug 2026 16:28:47 +0800</lastBuildDate>
-    <atom:link href="https://YorigamiChitose.github.io/categories/%E6%97%A5%E5%B8%B8/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://YorigamiChitose.github.io/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>重启blog</title>
       <link>https://YorigamiChitose.github.io/posts/daily/26-08-24-back-to-blog/</link>
@@ -16,16 +16,6 @@
       <guid>https://YorigamiChitose.github.io/posts/daily/26-08-24-back-to-blog/</guid>
       <description>&lt;p&gt;写blog真的是一个需要毅力的东西，之前一直在学习的时候还有点心思去写blog，一到毕业就懒了，现在到了新的学校，打算把blog捡起来&lt;/p&gt;
 &lt;p&gt;这个blog算是“历史悠久”了，实际上22年就开始，当时用的hexo，内容比现在要多的多，啥都写，中间搬迁到了hugo，24-25年存了很多写了一半的blog，有写riscv内核的，也有操作系统的，全删了，后面有机会再重新写写&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>搬迁好累</title>
-      <link>https://YorigamiChitose.github.io/posts/daily/24-09-11-good-hugo/</link>
-      <pubDate>Wed, 11 Sep 2024 20:40:02 +0800</pubDate>
-      <guid>https://YorigamiChitose.github.io/posts/daily/24-09-11-good-hugo/</guid>
-      <description>&lt;p&gt;正在一步一步从老hexo上把文章搬过来, 本来打算简单点直接copy paste.&lt;/p&gt;
-&lt;p&gt;但是发现很久前写的文章有点糙, 所以打算重置一下.&lt;/p&gt;
-&lt;p&gt;然后&amp;hellip;&lt;/p&gt;
-&lt;p&gt;&lt;del&gt;全重写了一遍&lt;/del&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
