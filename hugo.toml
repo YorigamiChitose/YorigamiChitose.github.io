@@ -42,6 +42,7 @@ enableInlineShortcodes = true
 ShowBreadCrumbs = true
 ShowCodeCopyButtons = true
 ShowPostNavLinks = true
+comments = true
 
 [params.profileMode]
 enabled = true
@@ -93,6 +94,20 @@ distance = 1000
 threshold = 0.4
 minMatchCharLength = 0
 keys = ["title", "permalink", "summary"]
+
+[params.giscus]
+repo = "YorigamiChitose/YorigamiChitose.github.io"
+repoId = "R_kgDOUCaJ2w"
+category = "Announcements"
+categoryId = "DIC_kwDOUCaJ284DEEQp"
+mapping = "pathname"
+reactionsEnabled = 1
+emitMetadata = 0
+inputPosition = "top"
+theme = "preferred_color_scheme"
+lang = "zh-CN"
+loading = "lazy"
+crossorigin = "anonymous"
 
 [[menu.main]]
 identifier = "search"
