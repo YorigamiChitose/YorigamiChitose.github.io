@@ -1,0 +1,121 @@
+baseURL: "https://YorigamiChitose.github.io/" 
+locale: zh 
+title: YorigamiChitose 
+theme: ["hugo-PaperMod", "hugo-notice"]
+# theme: ["hugo-theme-stack", "hugo-notice"]
+copyright: "© 2021-{{< year >}} [YorigamiChitose](https://YorigamiChitose.github.io/)" 
+enableEmoji: true 
+enableRobotsTXT: true 
+hasCJKLanguage: true 
+defaultContentLanguage: zh
+
+buildDrafts: false 
+buildFuture: false 
+buildExpired: false 
+
+pagination:
+  pagerSize: 15
+
+summaryLength: 140 
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+permalinks:
+  post: "/:title/"
+
+params:
+  env: productio
+  defaultTheme: auto
+  math: true
+  disableThemeToggle: false
+  DateFormat: "2006-01-02"
+  ShowToc: true
+  TocOpen: true
+  ShowWordCount: true
+  ShowReadingTime: true
+  ShowLastMod: true
+  hideAuthor: true
+  extendCodeBackground: false
+
+  profileMode:
+    enabled: true
+    title: "Welcome!"
+    subtitle: "Here is YorigamiChitose's Blog"
+    imageUrl: "https://avatars.githubusercontent.com/u/161789380?v=4"
+    buttons:
+      - name: "📌 技术"
+        url: "/posts/tech/"
+      - name: "⛅ 日常"
+        url: "/posts/daily/"
+
+  socialIcons:
+    - name: github
+      url: "https://github.com/YorigamiChitose"
+    - name: email
+      url: "mailto:YorigamiChitose@outlook.com?subject=%5BFrom%20YorigamiChitose-Blog%5D%20Hello"
+
+  cover:
+    linkFullImages: false
+
+  enableInlineShortcodes: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowPostNavLinks: true
+
+  # label:
+  #   text: "YorigamiChitose"
+  #   icon: "https://avatars.githubusercontent.com/u/161789380?v=4"
+  #   iconHeight: 35
+
+  assets:
+    favicon: "/img/favicon.ico"
+    favicon16x16: "/img/favicon-16x16.png"
+    favicon32x32: "/img/favicon-32x32.png"
+    apple_touch_icon: "/img/apple-touch-icon.png"
+    safari_pinned_tab: "/img/apple-touch-icon.png"
+    disableFingerprinting: true # 禁用指纹
+
+  fuseOpts: 
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: [ "title", "permalink", "summary" ]
+
+menu:
+  
+  main:
+    - identifier: search
+      name: 🔍 搜索
+      url: /search/
+      weight: 0
+    - identifier: home
+      name: 🏠 主页
+      url: /
+      weight: 10
+    - identifier: posts
+      name: 📚 文章
+      url: /posts/
+      weight: 10
+    - identifier: archives
+      name: ⏱️ 时间轴
+      url: /archives/
+      weight: 20
+    - identifier: tags
+      name: 🔖 标签
+      url: /tags/
+      weight: 30
+    - identifier: categories
+      name: 🧩 分类
+      url: /categories/
+      weight: 40
+    
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON

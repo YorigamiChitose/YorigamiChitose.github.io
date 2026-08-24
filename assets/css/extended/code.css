@@ -1,0 +1,12 @@
+/* 代码字体 */
+@font-face {
+    font-family: 'Cascadia Mono';
+    src: url('/fonts/CascadiaMono.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+code {
+    direction: ltr;
+    font-family: 'Cascadia Mono', Courier, monospace;
+}
